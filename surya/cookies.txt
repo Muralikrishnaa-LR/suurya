@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vdo.ai	TRUE	/	FALSE	1999999999	__cf_bm	1c4dd96b42c2d5d5217179257284ed183d58331e-1615079539-1800-AfkYy0ezR6t9bnN86kRSOS/OuseY8dMc28oDFlvUu25yt3GXam4K1ztgkxjg4eHpelYbMqOihddfAEItG21uVHw=
+.vdo.ai	TRUE	/	FALSE	1999999999	__cfduid	dd9fc9e2a4fe402d80e822666af2f717e1615079541
+a.vdo.ai	TRUE	/	FALSE	1999999999	SameSite	Lax
+
